@@ -4,7 +4,7 @@
 
 #### Tecnico en programación y sistemas UTN (en proceso) 
 
-Por las noches soy autodidacta de redes y seguridad informatica.
+Autodidacta de redes y seguridad informatica.
 
 ⚡ Fanatico de Boca y del mate. 
 
