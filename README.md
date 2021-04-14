@@ -35,7 +35,7 @@
 
 
 <br/>
----
+
 <br/>
 
 <a href="https://github.com/nicoamaciel"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoamaciel&theme=light&hide_langs_below=1" />
