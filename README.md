@@ -38,7 +38,8 @@
 
 <br/>
 
-! [Estadísticas de GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? nicoamaciel = anuraghazra & show_icons = true & theme = radical )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nicoamaciel=anuraghazra&show_icons=true&theme=radical)
+
 <a href="https://github.com/nicoamaciel"><img align="left" src="https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=light&line_height=27" alt="nicoamaciel github stats"/>
 </a>
 
