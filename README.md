@@ -1,5 +1,15 @@
 #  Hi!👋, soy Nicolás 🛰️
 ---
+<a href="https://twitter.com/nicoamaciel">
+  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/nicoamaciel">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://instagram.com/nicomaciel/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 [<img src ="https://media4.giphy.com/media/zXmbOaTpbY6mA/200.gif">
 
 #### Tecnico en programación y sistemas UTN 📚 
@@ -10,16 +20,6 @@
 
 • Administrativo en https://www.tai.com.ar/
 
----
-<a href="https://twitter.com/nicoamaciel">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/nicoamaciel">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://instagram.com/nicomaciel/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 ---
 
 #### 🚀 Coding / Software  
@@ -39,9 +39,9 @@
 ---
 
 <a href="https://github.com/nicoamaciel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoamaciel&theme=light&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoamaciel&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/nicoamaciel">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=light&line_height=27" alt="nicoamaciel github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=light&line_height=27" alt="nicoamaciel github stats"/>
 </a>
 
