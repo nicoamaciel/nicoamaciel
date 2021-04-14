@@ -1,4 +1,8 @@
-###  Hi!👋, soy nicoamaciel
+###  Hi!👋, soy Nicolás
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/nicoamaciel?logo=twitter&style=flat-square)](https://twitter.com/nicoamaciel)
+
+[<img src ="https://media1.tenor.com/images/4ac44c8eed874188ed4b2babebe78942/tenor.gif?itemid=11205361">
 
 #### Tecnico en programación y sistemas UTN (en proceso) 
 
@@ -13,13 +17,3 @@ C++ / PYTHON / HTML / CSS / LINUX
  
 
   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoamaciel)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nicoamaciel)  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nicoamaciel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nicoamaciel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nicoamaciel)
-
