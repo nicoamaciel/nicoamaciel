@@ -13,7 +13,7 @@
 
 <br/>
 
-[<img src ="https://media4.giphy.com/media/zXmbOaTpbY6mA/200.gif">
+<img src ="https://media4.giphy.com/media/zXmbOaTpbY6mA/200.gif">
 
 #### Tecnico en programación y sistemas UTN 📚 
 ---
