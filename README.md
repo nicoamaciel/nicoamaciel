@@ -4,7 +4,7 @@
 
 #### Tecnico en programación y sistemas UTN 📚 
 ---
-• Autodidacta de redes y seguridad informatica🕵️‍♂️. 
+• Autodidacta en seguridad informatica y redes🕵️‍♂️. 
 
 • Fanatico de Boca y del mate✨. 
 
