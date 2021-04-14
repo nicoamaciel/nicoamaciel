@@ -40,5 +40,6 @@
 
 ![nicoamaciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=tokyonight)
 
-[![nicoamaciel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicoamaciel)](https://github.com/tokyonight/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
