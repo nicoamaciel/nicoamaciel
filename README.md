@@ -1,10 +1,10 @@
-###  Hi!👋, soy Nicolás 🛰️
+##  Hi!👋, soy Nicolás 🛰️
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/nicoamaciel?logo=twitter&style=for-the-badge)](https://twitter.com/nicoamaciel)
 
 <img src ="https://media4.giphy.com/media/zXmbOaTpbY6mA/200.gif">
 
-#### Tecnico en programación y sistemas UTN 📚 
+### Tecnico en programación y sistemas UTN 📚 
 ---
 • Autodidacta de redes y seguridad informatica🕵️‍♂️. 
 
