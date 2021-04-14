@@ -38,8 +38,7 @@
 
 <br/>
 
-![nicoamaciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=radical)
+![nicoamaciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=cobalt)
 
-<a href="https://github.com/nicoamaciel"><img align="left" src="https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=light&line_height=27" alt="nicoamaciel github stats"/>
-</a>
+
 
