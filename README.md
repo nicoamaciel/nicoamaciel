@@ -9,7 +9,7 @@
 ---
  - Autodidacta de redes y seguridad informatica🕵️‍♂️. 
  - Fanatico de Boca y del mate✨. 
- - Administrativo en [!Tai SA](https://www.tai.com.ar/)
+ - Administrativo en [Tai SA](https://www.tai.com.ar/)
 
 
 #### 🚀 Coding / Software  
