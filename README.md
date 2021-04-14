@@ -38,7 +38,7 @@
 
 <br/>
 
-![nicoamaciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=cobalt)
+![nicoamaciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=tokyonight)
 
 
 
