@@ -8,9 +8,6 @@
 <a href="https://instagram.com/nicomaciel/">
    <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-<br/>
-
 <img src ="https://media4.giphy.com/media/zXmbOaTpbY6mA/200.gif">
 
 #### Tecnico en programación y sistemas UTN 📚 
@@ -37,7 +34,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
 
 <br/>
----
+<br/>
 
 <a href="https://github.com/nicoamaciel">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoamaciel&theme=light&hide_langs_below=1" />
