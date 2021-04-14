@@ -1,7 +1,8 @@
 ###  Hi!👋, soy Nicolás 🛰️
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/nicoamaciel?logo=twitter&style=for-the-badge)](https://twitter.com/nicoamaciel)
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/nicoamaciel)
+
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/nicoamaciel)
 ---
 [<img src ="https://media4.giphy.com/media/zXmbOaTpbY6mA/200.gif">
 
