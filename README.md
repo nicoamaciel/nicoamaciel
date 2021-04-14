@@ -40,4 +40,4 @@
 
 ![nicoamaciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=tokyonight)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?nicoamaciel)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicoamaciel)](https://github.com/anuraghazra/github-readme-stats)
