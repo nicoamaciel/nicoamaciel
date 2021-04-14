@@ -1,6 +1,7 @@
 ###  Hi!👋, soy Nicolás 🛰️
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/nicoamaciel?logo=twitter&style=for-the-badge)](https://twitter.com/nicoamaciel)
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/nicoamaciel)
 ---
 [<img src ="https://media4.giphy.com/media/zXmbOaTpbY6mA/200.gif">
 
@@ -10,7 +11,7 @@
 
 • Fanatico de Boca y del mate✨. 
 
-• Administrativo en https://www.tai.com.ar/
+• Ahh tambien trabajo de adm en https://www.tai.com.ar/
 
 
 #### 🚀 Coding / Software  
@@ -27,3 +28,4 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
 
 <br/>
+
