@@ -2,7 +2,7 @@
 
 #### Tecnico en programación y sistemas UTN (en proceso) 
 
-Autodidacta de redes y seguridad informatica.
+Autodidacta de redes y seguridad informatica. Modificacion 
 
 ⚡ Fanatico de Boca y del mate. 
 
