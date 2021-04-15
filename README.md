@@ -1,15 +1,10 @@
-#  Hi!👋, soy Nicolás 🛰️
-
 <img src ="https://media4.giphy.com/media/zXmbOaTpbY6mA/200.gif">
 
+#  Hi!👋, soy Nicolás 🛰️
+
 ### Tecnico en programación y sistemas UTN 📚 
+
 ---
-• Autodidacta en seguridad informatica y redes🕵️‍♂️. 
-
-• Fanatico de Boca y del mate✨. 
-
-• Administrativo en https://www.tai.com.ar/
-
 
 <a href="https://twitter.com/nicoamaciel"> <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
