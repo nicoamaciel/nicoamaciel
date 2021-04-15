@@ -36,7 +36,7 @@
 
 
 <a href="https://github.com/nicoamaciel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoamaciel&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoamaciel&theme=material-palenight" />
 </a>
 <a href="https://github.com/nicoamaciel">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=material-palenight" alt="nicoamaciel's github stats"/>
