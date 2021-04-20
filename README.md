@@ -2,7 +2,7 @@
 
 #  Hi!👋, soy Nicolás 
 
-## Tecnico en programación y sistemas UTN 📚 
+## Estudiante programación y sistemas UTN 📚 
 
 ### 🛰️ Informacion
 
