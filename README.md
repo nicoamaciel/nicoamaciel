@@ -2,14 +2,14 @@
 
 ## Technical Developer - UTN 📚 
 
-- 🔭Actualmente estoy trabajando como administrativo en Taisa .
-- 🌱 Actualmente estoy aprendiendo más sobre linux.
-- 👯Busco colaborar en sistemas de seguridad informatica y protocolos.
+- 🔭Actualmente me encuentro armando proyectos propios y mi portfolio.
+- 🌱 Estoy aprendiendo más sobre linux y completando las ultimas materias de la carrera.
 - 🤔 Estoy buscando ganar experiencia y trabajar en diferentes proyectos.
-- 💬 Pregúntame sobre c++ o cualquier tema relacionado con la carrera en programacion.
+- 💬 Pregúntame sobre c++ o cualquier tema relacionado con tecnologia.
 - 📫Cómo comunicarse conmigo: Twitter - @nicoamaciel 
 - 😄 Pronombres: él / vos 
 - ⚡ Dato curioso: Mi gato se llama sheldon.
+- 💡 SI no tengo mucho conocimiento sobre algo, busco aprenderlo. 
 
 ### 🛰️ Info
 
