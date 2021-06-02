@@ -1,8 +1,15 @@
-<img src ="https://media4.giphy.com/media/zXmbOaTpbY6mA/200.gif">
+##  Hi!👋, soy Nicolás 
 
-#  Hi!👋, soy Nicolás 
+## Technical Developer - UTN 📚 
 
-## Estudiante de programación y sistemas - UTN 📚 
+- 🔭Actualmente estoy trabajando como administrativo en Taisa .
+- 🌱 Actualmente estoy aprendiendo más sobre linux.
+- 👯Busco colaborar en sistemas de seguridad informatica y protocolos.
+- 🤔 Estoy buscando ganar experiencia y trabajar en diferentes proyectos.
+- 💬 Pregúntame sobre c++ o cualquier tema relacionado con la carrera en programacion.
+- 📫Cómo comunicarse conmigo: Twitter - @nicoamaciel 
+- 😄 Pronombres: él / vos 
+- ⚡ Dato curioso: Mi gato se llama sheldon.
 
 ### 🛰️ Info
 
