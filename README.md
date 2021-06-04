@@ -9,7 +9,7 @@
 - 📫Cómo comunicarse conmigo: Twitter - @nicoamaciel 
 - 😄 Pronombres: él / vos 
 - ⚡ Dato curioso: Mi gato se llama sheldon.
-- 💡 SI no tengo mucho conocimiento sobre algo, busco aprenderlo. 
+- 💡 Cuando no tengo mucho conocimiento sobre algun tema, busco aprenderlo. 
 
 ### 🛰️ Info
 
