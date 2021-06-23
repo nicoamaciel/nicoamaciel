@@ -1,15 +1,9 @@
 ##  Hi!👋, soy Nicolás 
 
-## Technical Developer - UTN 📚 
+## Tecnicatura en programacion - UTN 📚 
 
-- 🔭Actualmente me encuentro armando proyectos propios y mi portfolio.
 - 🌱 Estoy aprendiendo más sobre linux y completando las ultimas materias de la carrera.
 - 🤔 Estoy buscando ganar experiencia y trabajar en diferentes proyectos.
-- 💬 Pregúntame sobre c++ o cualquier tema relacionado con tecnologia.
-- 📫Cómo comunicarse conmigo: Twitter - @nicoamaciel 
-- 😄 Pronombres: él / vos 
-- ⚡ Dato curioso: Mi gato se llama sheldon.
-- 💡 Cuando no tengo mucho conocimiento sobre algun tema, busco aprenderlo. 
 
 ### 🛰️ Info
 
