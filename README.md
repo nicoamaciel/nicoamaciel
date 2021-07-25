@@ -1,7 +1,5 @@
 ##  Hi!👋, soy Nicolás 
 
-## Tecnicatura en programacion - UTN 📚 
-
 
 ### 🛰️ Info
 
