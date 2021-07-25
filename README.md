@@ -2,8 +2,6 @@
 
 ## Tecnicatura en programacion - UTN 📚 
 
-- 🌱 Estoy aprendiendo más sobre linux y completando las ultimas materias de la carrera.
-- 🤔 Estoy buscando ganar experiencia y trabajar en diferentes proyectos.
 
 ### 🛰️ Info
 
