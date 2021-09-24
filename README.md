@@ -4,10 +4,12 @@
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=nicoamaciel&label=Profile%20views&color=0e75b6&style=flat" alt = "nicoamaciel" /> </p>
 
-<h3 align = "left"> Conéctese conmigo: </ h3 >
+<br>
 <p align = "left">
 <a href="https://twitter.com/nicoamaciel" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/ rahuldkjain / github-profile-readme-generator / master / src / images / icons / Social / twitter.svg "alt =" nicoamaciel "height =" 30 "width =" 40 "/> </a>
+  
 <a href="https://linkedin.com/in//in/nicoamaciel/" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator / master / src / images / icons / Social / linked-in-alt.svg "alt =" / in / nicoamaciel / "height =" 30 "width =" 40 "/> </a>
+  
 <a href="https://instagram.com/nicoamaciel" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg "alt =" nicoamaciel "height =" 30 "width =" 40 "/> </a>
 </p>
 
