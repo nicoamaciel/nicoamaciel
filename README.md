@@ -1,4 +1,5 @@
 ##  Hi!👋, soy Nicolás - Tecnico en programacion (Muy pronto)
+## 💪 Me faltan 7 materias! 
 
 
 ### 🛰️ Info
@@ -14,13 +15,13 @@
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=nicoamaciel&label=Profile%20views&color=0e75b6&style=flat" alt = "nicoamaciel" /> </p>
 
-- 🔭 Actualmente estoy trabajando en 
-- 🌱 Actualmente estoy aprendiendo 
-- 👯 Estoy buscando colaborar en *
-- 🤝 Estoy buscando ayuda con 
-- 👨‍💻 Todos mis proyectos están disponibles en [propio] (propio)
-- 📝 Regularmente escribo artículos sobre [propio] (propio)
-- ⚡ Dato curioso ** propio **
+- 🔭 Actualmente estoy trabajando en diferentes proyectos 
+- 🌱 Estoy aprendiendo Js y react - Terminando las ultimas materias 
+- 👯 Estoy buscando colaborar en aplicaciones web
+- 🤝 Estoy buscando ayuda con tecnologia backend (investigando)  
+- 👨‍💻 Todos mis proyectos están disponibles en [portfolio - pronto] (propio)
+- 📝 Regularmente escribo artículos sobre [futbol y musica] (propio)
+- ⚡ Dato curioso hablo mucho con sheldon (gato compañero programador)
 
 <br/>
 <br/>
