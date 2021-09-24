@@ -1,11 +1,12 @@
 ##  Hi!👋, soy Nicolás - Tecnico en programacion (Muy pronto)
 💪 Me faltan 7 materias! 
 ****************************************
+<div align="left">
 <a href="https://twitter.com/nicoamaciel"> <img align="left" alt="nicoamaciel Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/nicoamaciel"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 <a href="https://instagram.com/nicoamaciel/"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
-
+</div>
 <br/>
 <br/>
 
