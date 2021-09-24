@@ -1,7 +1,7 @@
 ##  Hi!👋, soy Nicolás - Tecnico en programacion (Muy pronto)
-## 💪 Me faltan 7 materias! 
+💪 Me faltan 7 materias! 
 
-### 🛰️ Info:
+### Info:
 
 <a href="https://twitter.com/nicoamaciel"> <img align="left" alt="nicoamaciel Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -13,8 +13,8 @@
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=nicoamaciel&label=Profile%20views&color=0e75b6&style=flat" alt = "nicoamaciel" /> </p>
 
-- 🌱 Estoy aprendiendo Js y react y terminando las ultimas materias 
-- 👯 Estoy buscando colaborar en el desarrollo de aplicaciones web
+- 🌱 Aprendiendo y trabajando con proyectos Js y react - terminando las ultimas materias de la carrera 
+- 🛰️ Busco colaborar en el desarrollo de aplicaciones web
 - 🤝 Estoy buscando ayuda con tecnologia backend (investigando)  
 - 👨‍💻 Todos mis proyectos están disponibles en [portfolio - pronto] (propio)
 - ⚡ Dato curioso hablo mucho con sheldon (gato compañero programador)
