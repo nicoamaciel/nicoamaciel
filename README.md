@@ -1,7 +1,6 @@
 ##  Hi!👋, soy Nicolás - Tecnico en programacion (Muy pronto)
 💪 Me faltan 7 materias! 
 ****************************************
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fnicoamaciel
 
 <a href="https://twitter.com/nicoamaciel"> <img align="left" alt="nicoamaciel Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
