@@ -1,5 +1,6 @@
-<h1 align = "center"> Hola 👋, soy Nicolás </h1>
-<h3 align = "center"> Técnico en programación (muy pronto) </h3>
+<h1 align = "left"> Hola 👋, soy Nicolás </h1>
+<h3 align = "left"> Técnico en programación (muy pronto) </h3>
+<br>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=nicoamaciel&label=Profile%20views&color=0e75b6&style=flat" alt = "nicoamaciel" /> </p>
 
