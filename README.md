@@ -18,6 +18,7 @@
 - ⚡ Dato curioso hablo mucho con sheldon (gato compañero programador).
 
 ****************************************
+![C++](https://img.shields.io/appveyor/build/nicoamaciel/c++?color=white&label=c%2B%2B&logo=c%2B%2B&logoColor=blue&style=social)
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
