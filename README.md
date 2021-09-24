@@ -1,6 +1,6 @@
 ##  Hi!👋, soy Nicolás - Tecnico en programacion (Muy pronto)
 💪 Me faltan 7 materias! 
-****************************************
+***
 - 🌱 Trabajando con proyectos Js y React - Terminando las ultimas materias de la carrera. 
 - 🛰️ Busco colaborar en el desarrollo de aplicaciones web.
 - 🤝 Estoy buscando ayuda con tecnologia backend (investigando).  
@@ -14,7 +14,7 @@
 <br/>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=nicoamaciel&label=Profile%20views&color=0e75b6&style=flat" alt = "nicoamaciel" /> </p>
 
-****************************************
+***
 ![C++](https://img.shields.io/badge/-a?color=%231E90FF&label=C%2B%2B&logo=c%2B%2B&style=social)
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
