@@ -1,6 +1,11 @@
 ##  Hi!👋, soy Nicolás - Tecnico en programacion (Muy pronto)
 💪 Me faltan 7 materias! 
 ****************************************
+- 🌱 Trabajando con proyectos Js y React - Terminando las ultimas materias de la carrera. 
+- 🛰️ Busco colaborar en el desarrollo de aplicaciones web.
+- 🤝 Estoy buscando ayuda con tecnologia backend (investigando).  
+- 👨‍💻 Todos mis proyectos están disponibles en [portfolio - pronto].
+- ⚡ Dato curioso hablo mucho con sheldon (gato compañero programador).
 
 <a href="https://twitter.com/nicoamaciel"> <img align="left" alt="nicoamaciel Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -10,12 +15,6 @@
 <br/>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=nicoamaciel&label=Profile%20views&color=0e75b6&style=flat" alt = "nicoamaciel" /> </p>
-
-- 🌱 Trabajando con proyectos Js y React - Terminando las ultimas materias de la carrera. 
-- 🛰️ Busco colaborar en el desarrollo de aplicaciones web.
-- 🤝 Estoy buscando ayuda con tecnologia backend (investigando).  
-- 👨‍💻 Todos mis proyectos están disponibles en [portfolio - pronto].
-- ⚡ Dato curioso hablo mucho con sheldon (gato compañero programador).
 
 ****************************************
 ![C++](https://img.shields.io/badge/-a?color=%231E90FF&label=C%2B%2B&logo=c%2B%2B&style=social)
