@@ -17,8 +17,7 @@
 - 👨‍💻 Todos mis proyectos están disponibles en [portfolio - pronto] (propio)
 - ⚡ Dato curioso hablo mucho con sheldon (gato compañero programador)
 
-
-**************************************
+****************************************
 <br/>
 <br/>
 
