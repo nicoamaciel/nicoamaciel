@@ -15,9 +15,8 @@
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=nicoamaciel&label=Profile%20views&color=0e75b6&style=flat" alt = "nicoamaciel" /> </p>
 
-- 🔭 Actualmente estoy trabajando en diferentes proyectos 
-- 🌱 Estoy aprendiendo Js y react - Terminando las ultimas materias 
-- 👯 Estoy buscando colaborar en aplicaciones web
+- 🌱 Estoy aprendiendo Js y react y terminando las ultimas materias 
+- 👯 Estoy buscando colaborar en el desarrollo de aplicaciones web
 - 🤝 Estoy buscando ayuda con tecnologia backend (investigando)  
 - 👨‍💻 Todos mis proyectos están disponibles en [portfolio - pronto] (propio)
 - 📝 Regularmente escribo artículos sobre [futbol y musica] (propio)
