@@ -11,11 +11,11 @@
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=nicoamaciel&label=Profile%20views&color=0e75b6&style=flat" alt = "nicoamaciel" /> </p>
 
-- 🌱 Aprendiendo y trabajando con proyectos Js y react - terminando las ultimas materias de la carrera 
-- 🛰️ Busco colaborar en el desarrollo de aplicaciones web
-- 🤝 Estoy buscando ayuda con tecnologia backend (investigando)  
-- 👨‍💻 Todos mis proyectos están disponibles en [portfolio - pronto] (propio)
-- ⚡ Dato curioso hablo mucho con sheldon (gato compañero programador)
+- 🌱 Aprendiendo y trabajando con proyectos Js y React - terminando las ultimas materias de la carrera. 
+- 🛰️ Busco colaborar en el desarrollo de aplicaciones web.
+- 🤝 Estoy buscando ayuda con tecnologia backend (investigando).  
+- 👨‍💻 Todos mis proyectos están disponibles en [portfolio - pronto].
+- ⚡ Dato curioso hablo mucho con sheldon (gato compañero programador).
 
 ****************************************
 <br/>
