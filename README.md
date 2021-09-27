@@ -1,5 +1,5 @@
 ##  Hi!👋, soy Nicolás - Tecnico en programacion (Muy pronto)
-💪 Estado academico -->! 
+💪 Estado academico -->
 ***
 - 🌱 Trabajando con proyectos Js y React - Terminando las ultimas materias de la carrera. 
 - 🛰️ Busco colaborar en el desarrollo de aplicaciones web.
