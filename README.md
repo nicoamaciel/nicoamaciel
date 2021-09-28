@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/nicoamaciel"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 <a href="https://instagram.com/nicoamaciel/"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
 <br/>
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=nicoamaciel&label=Profile%20views&color=0e75b6&style=flat" alt = "nicoamaciel" /> </p>
+
 
 ***
 ![C++](https://img.shields.io/badge/-a?color=%231E90FF&label=C%2B%2B&logo=c%2B%2B&style=social)
