@@ -1,4 +1,4 @@
-##  Hi!👋, soy Nicolás - Tecnico en programacion (Muy pronto)
+##  Hola!👋, soy Nicolás - Tecnico en programacion (Muy pronto)
 💪 Estado academico --> <a href="https://raw.githubusercontent.com/nicoamaciel/PracticasProyectos_UTN/main/EstadoAcademico/EstadoAcademico.png">TUP</a>
 ***
 - 🌱 Trabajando con proyectos Js y React - Terminando las ultimas materias de la carrera. 
