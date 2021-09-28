@@ -26,9 +26,7 @@
 <br/>
 
 <a href="https://github.com/nicoamaciel"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=material-palenight" alt="nicoamaciel's github stats"/>
-</a>
-<a href="https://github.com/nicoamaciel/github-readme-stats"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nicoamaciel&layout=compact&theme=material-palenight" />
-</a>
+
 
 
 
