@@ -5,7 +5,7 @@
 - 🛰️ Busco colaborar en el desarrollo de aplicaciones web.
 - 🤝 Estoy buscando ayuda con tecnologia backend (investigando).  
 - 👨‍💻 Todos mis proyectos están disponibles en [portfolio - pronto].
-- ⚡ Dato curioso hablo mucho con sheldon (gato compañero programador).
+- ⚡ Dato curioso hablo con Sheldon mi gato compañero programador.
 
 <a href="https://twitter.com/nicoamaciel"> <img align="left" alt="nicoamaciel Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
