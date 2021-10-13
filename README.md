@@ -6,10 +6,9 @@
 - 👨‍💻 Todos mis proyectos están disponibles en [portfolio - pronto].
 - ⚡ Dato curioso hablo con Sheldon mi gato compañero programador.
 
-<a href="https://twitter.com/nicoamaciel"> <img align="left" alt="nicoamaciel Twitter" width="22px" src="https://img.icons8.com/office/16/000000/twitter.png" />
-</a>
-<a href="https://linkedin.com/in/nicoamaciel"><img align="left" width="22px" src="https://img.icons8.com/office/16/000000/linkedin.png" /> </a>
-<a href="https://instagram.com/nicoamaciel/"><img align="left" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png" /> </a>
+<a href="https://twitter.com/nicoamaciel"> <img align="left" alt="nicoamaciel Twitter" width="22px" src="https://img.icons8.com/office/16/000000/twitter.png"/> </a>
+<a href="https://instagram.com/nicoamaciel/"><img align="left" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/> </a>
+<a href="https://linkedin.com/in/nicoamaciel"><img align="left" width="22px" src="https://img.icons8.com/office/16/000000/linkedin.png"/> </a>
 <br/>
 
 
