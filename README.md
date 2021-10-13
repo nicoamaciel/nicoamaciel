@@ -19,7 +19,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![Php](https://img.shields.io/badge/-Php-45B39D?style=flat&logo=php&logoColor=white)
-![MySql](https://img.shields.io/badge/-Mysql-EC3409?style=flat&logo=php&logoColor=white)
+![MySql](https://img.shields.io/badge/-Mysql-EC3409?style=flat&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-635653?style=flat&logo=Linux&logoColor=white)
 
