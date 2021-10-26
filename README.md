@@ -21,8 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-635653?style=flat&logo=Linux&logoColor=white)
 
-<br/>
-  
+<br/> 
 <a href="https://github.com/nicoamaciel"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=dark" alt="nicoamaciel's github stats"/>
 <a href="https://github.com/nicoamaciel"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoamaciel&layout=compact&theme=dark" alt="nicoamaciel's github stats"/>
 
