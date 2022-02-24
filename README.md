@@ -1,7 +1,7 @@
 ##  Hola!👋, soy Nicolás - Tecnico en programacion (Muy pronto)
 💪 Estado academico --> <a href="https://raw.githubusercontent.com/nicoamaciel/PracticasProyectos_UTN/main/EstadoAcademico/EstadoAcademico.png">TUP</a>
 ***
-- 🌱 Trabajando en diferente proyectos - Terminando las ultimas de materias de TUP 
+- 🌱 Trabajando en diferente proyectos - Terminando las ultimas de materias de TUP.
 - 🛰️ Implementaciones y uso de diferentes herramientas de desarrollo. 
 - 👨‍💻 Todos mis proyectos están disponibles en [portfolio - pronto].
 - ⚡ Dato curioso hablo con Sheldon mi gato.
