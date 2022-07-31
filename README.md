@@ -1,18 +1,6 @@
-##  Hola!👋, soy Nicolás - Tecnico en programacion (Muy pronto)
-💪 Estado academico --> <a href="https://raw.githubusercontent.com/nicoamaciel/PracticasProyectos_UTN/main/Estado2/estado2.png">TUP</a>
-***
-- 🌱 Trabajando en diferente proyectos - Terminando las ultimas de materias de TUP.
-- 🛰️ Implementaciones y uso de diferentes herramientas de desarrollo. 
-- 👨‍💻 Todos mis proyectos están disponibles en [portfolio - pronto].
+##  nicoamaciel 
 
 
-<a href="https://twitter.com/nicoamaciel"> <img align="left" alt="nicoamaciel Twitter" width="22px" src="https://img.icons8.com/office/16/000000/twitter.png"/> </a>
-<a href="https://instagram.com/nicoamaciel/"><img align="left" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/> </a>
-<a href="https://linkedin.com/in/nicoamaciel"><img align="left" width="22px" src="https://img.icons8.com/office/16/000000/linkedin.png"/> </a>
-<br/>
-
-
-***
 ![C++](https://img.shields.io/badge/-a?color=%231E90FF&label=C%2B%2B&logo=c%2B%2B&style=social)
 ![Php](https://img.shields.io/badge/-Php-111B8C?style=flat&logo=php&logoColor=white)
 ![MySql](https://img.shields.io/badge/-Mysql-2D9E28?style=flat&logo=mysql&logoColor=white)
