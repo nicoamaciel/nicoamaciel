@@ -13,7 +13,7 @@
 
 <br/> 
 <a href="https://github.com/nicoamaciel"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=dark" alt="nicoamaciel's github stats"/>
-<a href="https://github.com/nicoamaciel"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoamaciel&layout=compact&theme=dark" alt="nicoamaciel's github stats"/>
+<a href="https://github.com/"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=dark" alt="nicoamaciel's github stats"/>
  
 
 
