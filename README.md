@@ -15,7 +15,7 @@
 <a href="https://github.com/nicoamaciel"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoamaciel&show_icons=true&theme=dark" alt="nicoamaciel's github stats"/>
 <a href="https://github.com/nicoamaciel"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoamaciel&layout=compact&theme=dark" alt="nicoamaciel's github stats"/>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoamaciel&hide_progress=true)](https://github.com/nicoamaciel/github-readme-stats)
+
 
 
 
